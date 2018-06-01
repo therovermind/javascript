@@ -37,7 +37,8 @@
     * Total.js
   * Full Stack Frameworks
     * Meteor.js
-    * Mean.js 
+    * Mean.js
+    * mern.io
   * Other Frameworks
     * Electron.js
 * Libraries 
