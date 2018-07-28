@@ -41,6 +41,7 @@
     * mern.js
   * Other Frameworks
     * Electron.js
+    * iot.js
 * Libraries 
   * RxJs
   * ngrx
@@ -59,6 +60,7 @@
   * Augumented Reality (AR)
   * Virtual Reality (VR)
   * Machine Learning (Tensorflow.js, Brain.js)
+  * Internet of things(iot.js)
 
 ---------------- Awesome Random Stuff --------------------
 * Awesome Blogs
